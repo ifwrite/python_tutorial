@@ -1,2 +1,4 @@
 # python_tutorial
-python training
+Python training
+
+From [每日一练](https://github.com/Yixiaohan/show-me-the-code)
